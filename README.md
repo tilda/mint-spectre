@@ -1,6 +1,6 @@
 # mint-spectre
 
-A minty take on Spectre.css, a lightweight CSS framework
+A [minty](https://www.mint-lang.com) take on Spectre.css, a lightweight CSS framework
 
 # Installing
 
