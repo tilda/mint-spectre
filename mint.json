@@ -1,0 +1,13 @@
+{
+  "name": "mint-spectre",
+  "external": {
+    "stylesheets": [
+    ]
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
